@@ -1,0 +1,6 @@
+"#container": {
+    height: Ti.UI.FILL,
+    layout: 'vertical',
+    showVerticalScrollIndicator: true,
+    width: Ti.UI.FILL
+},

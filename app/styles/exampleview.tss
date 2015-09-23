@@ -1,0 +1,11 @@
+"#container": {
+	backgroundColor:"white",
+	layout: "vertical"
+}
+
+".images": {
+	top: 10,
+	height: 240,
+	image: "http://www.photography-match.com/views/images/gallery/Uluru_Kata_Tjuta_National_Park_Australia.jpg"
+}
+

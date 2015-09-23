@@ -1,0 +1,18 @@
+".container": {
+	top: 50,
+	navBarHidden: true,
+	tabBarHidden:true,
+	backgroundColor: '#fff',
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	}
+}
